@@ -18,7 +18,7 @@ FirstResponder is a comprehensive application that provides essential tools and 
 ### User Interface Testing
 ![UI Test Demo](uiTest.gif)
 
-### Simulation Blueprint
+### Simulation
 ![Simulation Blueprint](simulationBP.jpg)
 
 ## Installation
