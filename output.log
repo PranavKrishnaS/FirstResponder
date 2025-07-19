@@ -1,0 +1,9 @@
+Sketch uses 304566 bytes (23%) of program storage space. Maximum is 1310720 bytes.
+Global variables use 20784 bytes (6%) of dynamic memory, leaving 306896 bytes for local variables. Maximum is 327680 bytes.
+esptool.py v4.8.1
+Serial port COM9:
+Connecting......................................
+
+A fatal error occurred: Failed to connect to ESP32: No serial data received.
+For troubleshooting steps visit: https://docs.espressif.com/projects/esptool/en/latest/troubleshooting.html
+Failed uploading: uploading error: exit status 2
